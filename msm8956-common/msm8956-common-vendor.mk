@@ -364,3 +364,9 @@ PRODUCT_PACKAGES += \
     colorservice \
     ims \
     imssettings
+
+# Perf
+PRODUCT_PACKAGES += \
+    com.qualcomm.qti.Performance.xml \
+    libqti_performance \
+    QPerformance
