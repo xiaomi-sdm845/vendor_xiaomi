@@ -174,3 +174,4 @@ cc_prebuilt_binary {
 	srcs: ["proprietary/bin/chargeonlymode"],
 	prefer: true,
 }
+
